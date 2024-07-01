@@ -39,7 +39,7 @@ real time chat feature.
                 </div>
                 <div>
                   <a
-                    href="https://courageous-piroshki-353f31.netlify.app/home"
+                    href="https://courageous-piroshki-353f31.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
