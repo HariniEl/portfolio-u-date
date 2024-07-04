@@ -71,7 +71,7 @@ real time chat feature.
                 </div>
               </div>
               <div className="project_information">
-                <h2>Dice Game</h2>
+                <h2>Dice</h2>
                 <p>
                   Dice Game between the two players.
                 </p>
