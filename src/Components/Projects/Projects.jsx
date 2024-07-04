@@ -60,7 +60,49 @@ real time chat feature.
               </div>
             </div>
           </div>
-
+<div className="projects_container" data-aos="fade-right">
+            <div className="project">
+              <div className="project_videocontainer">
+                <div>
+                  <img
+                    src={Dice}
+                    alt="Dice"
+                  />
+                </div>
+              </div>
+              <div className="project_information">
+                <h2>Dice Game</h2>
+                <p>
+                  Dice Game between the two players.
+                </p>
+                <div>
+                  <DiCss3 />
+                  <SiHtml5 />
+                  <IoLogoJavascript />
+                </div>
+                <div>
+                  <a
+                    href="https://clever-pothos-1f20ba.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/HariniEl/Dice-Game"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
   
         </div>
       </div>
